@@ -1,0 +1,27 @@
+{
+  "name": "set-up-a-hello-microverse-projec",
+  "version": "1.0.0",
+  "description": "This is a blue header saying \"Hello Microverse!\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscoPonceDev/Set-up-a-Hello-Microverse-projec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscoPonceDev/Set-up-a-Hello-Microverse-projec/issues"
+  },
+  "homepage": "https://github.com/franciscoPonceDev/Set-up-a-Hello-Microverse-projec#readme",
+  "devDependencies": {
+    "hint": "^6.1.9",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
