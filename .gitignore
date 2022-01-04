@@ -278,7 +278,7 @@ node_modules/
 # Visual Studio 6 build log
 *.plg
 
-# Visual Studio 6 workspace options file
+# Visual Studio 6 workspace options file 
 *.opt
 
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
@@ -348,9 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
-
-#github folder
-.github
 
 #ignore test.md
 test.md
